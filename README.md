@@ -20,7 +20,7 @@ A dynamic event management platform built with **C#**, **MySQL**, and a well-str
 ---
 
 ## 📄 Files Included
-- `(https://github.com/EmelyMachete/eco-events-management/blob/main/eco-events-management.pdf)` – Full project documentation
+- `eco-events-management.pdf` – Full project documentation
 
 ---
 
